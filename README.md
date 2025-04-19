@@ -1,12 +1,17 @@
 ***Batch File Renamer Tool - Python Executable***
+
 by Maysam Al-Ani
 
 Github: https://github.com/malaniwork/Batch-File-Renamer-Tool
+
 Tool overview: https://www.malani.work/batch-renamer-tool
+
 Tool demo (video): https://vimeo.com/1076840379?share=copy
 
 ***DESCRIPTION
-A python executable for a batch file renamer/copy tool. 
+
+A python executable for a batch file renamer/copy tool.
+
 This tool allows users to batch copy and/or rename files per file extension type in any provided file path.
 
 ***HOW TO SETUP AND USE
