@@ -1,9 +1,9 @@
 ***Batch File Renamer Tool - Python Executable***
 by Maysam Al-Ani
 
-Github: https://github.com/malaniwork/Camera-JSON-Maya-Exporter-Unity-Importer
-Tool overview: https://www.malani.work/camera-exporter
-Tool demo (video): https://vimeo.com/723169999
+Github: https://github.com/malaniwork/Batch-File-Renamer-Tool
+Tool overview: https://www.malani.work/batch-renamer-tool
+Tool demo (video): https://vimeo.com/1076840379?share=copy
 
 ***DESCRIPTION
 A python executable for a batch file renamer/copy tool. 
