@@ -23,3 +23,4 @@ This tool allows users to batch copy and/or rename files per file extension type
 3. Run the executable 
 
 *** For any issues, questions, or contributions, please post on the Github page.
+
