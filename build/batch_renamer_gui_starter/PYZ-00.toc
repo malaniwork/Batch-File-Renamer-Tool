@@ -1,5 +1,4 @@
-('C:\\Users\\alani\\OneDrive\\Desktop\\Become a '
- 'TA\\TART_assignment_03_files\\TART_assignment_03_files\\BatchFileRenamerTool\\build\\batch_renamer_gui_starter\\PYZ-00.pyz',
+('C:\\Users\\alani\\OneDrive\\Desktop\\2025_BatchFileRenamerTool\\build\\batch_renamer_gui_starter\\PYZ-00.pyz',
  [('PyQt6',
    'C:\\Program Files\\Python313\\Lib\\site-packages\\PyQt6\\__init__.py',
    'PYMODULE'),
@@ -37,12 +36,10 @@
   ('ast', 'C:\\Program Files\\Python313\\Lib\\ast.py', 'PYMODULE'),
   ('base64', 'C:\\Program Files\\Python313\\Lib\\base64.py', 'PYMODULE'),
   ('batch_renamer_lib',
-   'C:\\Users\\alani\\OneDrive\\Desktop\\Become a '
-   'TA\\TART_assignment_03_files\\TART_assignment_03_files\\BatchFileRenamerTool\\batch_renamer_lib.py',
+   'C:\\Users\\alani\\OneDrive\\Desktop\\2025_BatchFileRenamerTool\\batch_renamer_lib.py',
    'PYMODULE'),
   ('batch_renamer_ui',
-   'C:\\Users\\alani\\OneDrive\\Desktop\\Become a '
-   'TA\\TART_assignment_03_files\\TART_assignment_03_files\\BatchFileRenamerTool\\batch_renamer_ui.py',
+   'C:\\Users\\alani\\OneDrive\\Desktop\\2025_BatchFileRenamerTool\\batch_renamer_ui.py',
    'PYMODULE'),
   ('bisect', 'C:\\Program Files\\Python313\\Lib\\bisect.py', 'PYMODULE'),
   ('bz2', 'C:\\Program Files\\Python313\\Lib\\bz2.py', 'PYMODULE'),

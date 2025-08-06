@@ -112,14 +112,13 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         Run back end batch renamer using self.batch_renamer
         self.batch_renamer is an instance of the BatchRenamer class
         """
+        self.batch_renamer.filepath = self.filepath
+
         if self.batch_renamer.filepath == None:
             self.error_dialog.showMessage("Cannot run operation: no filepath \
                                           was provided!")
             print("ERROR:No filepath provided, cannot run")
-            return
-        
-    
-        self.batch_renamer.filepath = self.filepath
+            return        
 
         # Get parameters from UI
         (
@@ -131,6 +130,9 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         ) = self.get_parameters()
 
         extension = self.filetypesEdit.text()
+        extension = extension.lstrip(".").lower()
+        print(f"Extension entered: '{extension}'")
+
 
         # Rename via batch_renamer_lib if rename_mode = True
         if self.rename_mode:
